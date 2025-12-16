@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "陰謀論",
+  "base_artist": "tofubeats",
+  "createdAt": "2025-12-16T04:42:37.745862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "陰謀論",
+      "artist": "tofubeats",
+      "has_synced": false,
+      "path": "select/01_陰謀論_tofubeats.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "陰謀論",
+      "artist": "tofubeats",
+      "has_synced": false,
+      "path": "select/pl_01_陰謀論_tofubeats.txt"
+    }
+  ]
+}
